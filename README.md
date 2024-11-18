@@ -80,6 +80,6 @@ To keep submissions organized, please follow this directory structure:
 ---
 
 ## 📧 Questions?
-If you have any questions, post them in the **GitHub Issues** section or reach out on the Everything Data community page.
+If you have any questions, post them in the **GitHub Issues** section or reach out on the Everything Data community Whatsapp page.
 
 Let’s dive into the data, learn, and have fun analyzing loan risk together! Happy analyzing! 🚀
